@@ -1,0 +1,11 @@
+{
+  "widgets": [
+    {
+      "type": "metric",
+      "properties": {
+        "metrics": [["AWS/Lambda", "Invocations", "FunctionName", "QBusinessHandler"]],
+        "title": "Lambda Usage"
+      }
+    }
+  ]
+}
