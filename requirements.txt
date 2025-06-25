@@ -1,0 +1,7 @@
+boto3
+awscli
+python-dotenv
+flask
+fastapi
+requests
+pandas
