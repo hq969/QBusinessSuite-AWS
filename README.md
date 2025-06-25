@@ -1,5 +1,4 @@
-"""
-# QBusinessSuite-AWS
+### QBusinessSuite-AWS
 
 ## 🔍 Overview
 Q Business Suite (QBS) is an AI-powered workspace developed on AWS that unifies Amazon Q Business, Amazon QuickSight, and Q Apps. It enables users to perform natural language querying, visualize data, and build no-code workflows, streamlining enterprise data operations in a secure, governed environment.
