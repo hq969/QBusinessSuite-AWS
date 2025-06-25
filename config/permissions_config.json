@@ -1,0 +1,9 @@
+{
+  "roles": [
+    "Admin", "Analyst", "Developer"
+  ],
+  "data_policies": {
+    "Salesforce": "read-only",
+    "Redshift": "read-write"
+  }
+}
